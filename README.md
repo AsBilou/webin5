@@ -3,6 +3,8 @@ webin5
 
 Est un site d'actualité sur l'internet dans 5 ans...
 
+Il utilise le theme "Roots theme" basé sur Bootstrap et HTML5 Boilerplate.
+
 Funny quote
 ==========
 
