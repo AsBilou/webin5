@@ -4,7 +4,7 @@ add_action('admin_menu','funny_quotes_admin_menu');
 
 function funny_quotes_admin_menu(){
     add_menu_page('Funny Quotes Options','Funny Quotes','manage_options','funny_quotes','funny_quotes_options','images/comment-grey-bubble.png');
-    add_submenu_page('funny_quotes','Ajouter quotes','Add quotes','manage_options','add_funny_quotes','add_funny_quotes_options');
+    add_submenu_page('funny_quotes','Ajouter quotes','Ajouter quotes','manage_options','add_funny_quotes','add_funny_quotes_options');
 }
 
 function funny_quotes_options() {
