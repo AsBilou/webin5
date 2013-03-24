@@ -1,4 +1,4 @@
-WebIn5 https://github.com/AsBilou/webin5
+WebIn5
 ======
 Web in 5 est un site d'actualité sur l'internet dans 5 ans...
 
